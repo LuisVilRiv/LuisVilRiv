@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Luis 👋
 
-<!--
-**LuisVilRiv/LuisVilRiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de DAW con ASIR ya en el bolsillo. Me muevo cómodo tanto escribiendo código como administrando la infraestructura donde corre — esa combinación es lo que más me interesa explorar.
 
-Here are some ideas to get you started:
+Me gusta la programación funcional en el sentido amplio: scripts que automatizan lo que nadie quiere hacer a mano, flujos que conectan sistemas, programas que resuelven un problema concreto de forma limpia. Si hay una forma más efectiva de hacer algo, prefiero encontrarla antes de conformarme con la primera que funcione.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aprendizaje autodidacta por defecto. Los proyectos de aquí son la prueba.
+
+---
+
+**Con lo que trabajo:**
+
+`Python` `PHP` `Bash` `SQL` `Docker` `Linux` `PowerShell` `Git`
+
+**Construyendo:**
+
+- 🗂️ [El Archivo de los Mundos](https://github.com/LuisVilRiv/el-archivo-de-los-mundos) — gestor de biblioteca personal con autenticación propia y SQLite
+- 🌐 Web corporativa para asociación de aficionados del Granada CF *(repositorio privado — Astro + Markdown)*
+
+**Certificaciones:**
+
+- Cisco CCNA: Introduction to Networks
+- Cisco Python Essentials 1 & 2
+
+---
+
+📍 Granada · Buscando FCT para 2027 en Málaga o Bilbao
+📬 villegasriveraluis@gmail.com
